@@ -1,3 +1,3 @@
 import os
 print "Hello world"
-os.system("mkdir aaaaaaa")
+os.system("sudo apt-get install ansible")
